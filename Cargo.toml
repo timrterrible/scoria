@@ -5,3 +5,4 @@ authors = ["timr"]
 edition = "2018"
 
 [dependencies]
+markov = "1.0.2"
