@@ -1,0 +1,7 @@
+[package]
+name = "scoria"
+version = "0.1.0"
+authors = ["timr"]
+edition = "2018"
+
+[dependencies]
